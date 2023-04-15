@@ -12,7 +12,7 @@
 * Jieba 
 * Word tokenization example
 
-[TASK-3]https://github.com/pratyushmanandhar/nlp/blob/main/nlptask3.ipynb)
+[TASK-3](https://github.com/pratyushmanandhar/nlp/blob/main/nlptask3.ipynb)
 
 * Gender features on names corpus
 * Tweet tokenization.
